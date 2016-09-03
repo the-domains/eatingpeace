@@ -28,6 +28,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: 'Question your thinking, dissolve suffering'
+    url: 'http://workwithgrace.com/'
+    type: external
 favicon: null
 title: >-
   Ending Compulsion, Dependency, Addiction with Mindful Self-Inquiry & The Work
