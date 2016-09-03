@@ -1,20 +1,4 @@
-name: EatingPeace
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.9084481906611472
-title: 'Ending Compulsion, Dependency, Addiction with Mindful Self-Inquiry & The Work of Byron Katie'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,23 @@ color:
   lightness: 0.6875
   saturation: 0.1875
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: EatingPeace
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: >-
+  Ending Compulsion, Dependency, Addiction with Mindful Self-Inquiry & The Work
+  of Byron Katie
+description: 'Grace Bell, Facilitator of The Work'
 purpose: []
