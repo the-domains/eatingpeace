@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Grace Bell
+  email: grace@workwithgrace.com
+  url: workwithgrace.com
 name: EatingPeace
 cta:
   domain: null
